@@ -2,4 +2,4 @@
 
 # intermediate and advanced SQL queries 
 
-- Windows function 
+- Window function 
